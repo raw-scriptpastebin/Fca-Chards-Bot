@@ -32,11 +32,11 @@ Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không H
 
 Nếu Bạn Muốn Sử Dụng Phiên Bản Mới Nhất Hay Cập Nhật Thì Hãy Vô Terminal Hoặc Command Promt Nhập :
 ```bash
-npm install Fca-Horizon-Mod@latest
+npm install Fca-Chards-Bot@latest
 ```
 Hoặc
 ```bash
-npm i Fca-Horizon-Mod@latest
+npm i Fca-Chards-Bot@latest
 ```
 
 ## Nếu Bạn Muốn Test Api 
@@ -47,7 +47,7 @@ Hãy Sử Dụng Với Tài Khoản Thử Nghiệm => [Facebook Whitehat Account
 ## Cách Sử Dụng
 
 ```javascript
-const login = require("Fca-Horizon-Mod"); // lấy từ lib ra 
+const login = require("Fca-Chards-Bot"); // lấy từ lib ra 
 
 // đăng nhập
 login({email: "Gmail Account", password: "Mật Khẩu Facebook Của Bạn"}, (err, api) => {
@@ -87,7 +87,7 @@ Bạn Cần Vô File Mirai.js,Sau Đó Tìm Đến Dòng
 Và Thay Nó Bằng:
 
 ```js
-    var login = require('Fca-Horizon-Mod')
+    var login = require('Fca-Chards-Bot')
 ```
 
 Sau Đó Thì Chạy Bình Thường Thôi  !
@@ -108,7 +108,7 @@ __Hướng Dẫn Với Appstate__
 
 ```js
 const fs = require("fs");
-const login = require("Fca-Horizon-Mod");
+const login = require("Fca-Chards-Bot");
 
 var credentials = {email: "FB_EMAIL", password: "FB_PASSWORD"}; // thông tin tk
 
