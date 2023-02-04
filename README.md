@@ -19,11 +19,11 @@ Lưu Ý ! Nếu Bạn Muốn Sài Api Này Hãy Xem Document Tại [Đây Nè](h
 
 Nếu Bạn Muốn Sử Dụng, Hãy Tải Nó Bằng Cách:
 ```bash
-npm i Fca-Horizon-Mod
+npm i Fca-Chards-Bot
 ```
 or
 ```bash
-npm install Fca-Horizon-Mod
+npm install Fca-Chards-Bot
 ```
 
 Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không Hiện Đâu Mà Tìm 😪
